@@ -7,8 +7,8 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        PG12916 pg = new PG12916();
-        boolean result = pg.solution(PG12916.s2);
+        PG81301 pg = new PG81301();
+        int result = pg.solution(PG81301.s2);
         System.out.println(result);
     }
 }
